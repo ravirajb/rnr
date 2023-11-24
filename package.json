@@ -1,0 +1,23 @@
+{
+  "name": "rnr",
+  "version": "1.0.0",
+  "description": "Rewards And Recognition Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravirajb/rnr.git"
+  },
+  "keywords": [
+    "typescript",
+    "rest"
+  ],
+  "author": "ravi b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravirajb/rnr/issues"
+  },
+  "homepage": "https://github.com/ravirajb/rnr#readme"
+}
